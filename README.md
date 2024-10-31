@@ -7,6 +7,7 @@ In the Street2Sat approach, to calculate the distance between the GoPro camera a
 For more detailed information, please explore the code!
 
 ----------
+PREPROCESS: Export coordinates from JPEG images.
 
 config.py: parameter configuration
 
